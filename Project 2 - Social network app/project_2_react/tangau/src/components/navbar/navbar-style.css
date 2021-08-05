@@ -1,0 +1,19 @@
+#navbar-div{
+    position:fixed;
+    top:0;
+    width: 100%;
+    height: 45px;
+    background-color: #014366;
+    opacity: 70%;
+    /* Main page color #023EBF https://color.adobe.com/create/color-wheel */
+}
+
+#navbar-bottom-grad1{
+    position:fixed;
+    background-color: #013957;
+    top:45px;
+    width: 100%;
+    height: 1px;
+    opacity: 70%;
+}
+

@@ -1,0 +1,1546 @@
+2021-08-02 23:23:10 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-02 23:23:11 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-02 23:23:12 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-02 23:23:16 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-02 23:23:29 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-02 23:23:29 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-02 23:23:31 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:23:31 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:23:45 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:23:45 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:27:04 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-02 23:27:04 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-02 23:27:06 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:27:06 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:27:11 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:27:11 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:30:59 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:31:56 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:32:00 INFO  UserController:352 - A user has successfully logged out of the website!!!
+2021-08-02 23:32:04 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-02 23:32:04 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-02 23:32:07 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:32:07 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:32:15 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:32:15 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:33:04 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:33:04 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:33:11 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:33:11 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:36:10 INFO  UserController:352 - A user has successfully logged out of the website!!!
+2021-08-02 23:36:16 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-02 23:36:16 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-02 23:36:21 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-02 23:36:22 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-02 23:36:23 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-02 23:36:26 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-02 23:36:29 INFO  UserController:308 - null's profile picture key was successfully sent!!!
+2021-08-02 23:36:29 INFO  UserController:308 - null's profile picture key was successfully sent!!!
+2021-08-02 23:36:36 INFO  UserController:117 - admin1 has logged into Tangau!!!!
+2021-08-02 23:36:36 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-02 23:36:38 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:36:38 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:36:44 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:36:44 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:37:37 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:37:45 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:38:05 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:38:08 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:40:03 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:44:27 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-02 23:44:27 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-02 23:44:28 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-02 23:44:31 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-02 23:46:06 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-02 23:46:06 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-02 23:46:08 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:46:08 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:46:14 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-02 23:46:15 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:46:43 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:46:43 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:46:47 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-02 23:46:47 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:48:37 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:48:37 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:48:40 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-02 23:48:40 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:51:25 INFO  UserController:319 - admin2's profile picture key was successfully sent!!!
+2021-08-02 23:55:35 INFO  UserController:319 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:56:57 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-02 23:56:57 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-02 23:58:03 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:58:03 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:58:18 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-02 23:58:18 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-02 23:58:20 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:58:20 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:58:23 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-02 23:58:23 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-02 23:58:42 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-02 23:58:49 INFO  UserController:117 - admin1 has logged into Tangau!!!!
+2021-08-02 23:58:49 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-02 23:58:52 INFO  UserController:319 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:58:52 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-02 23:59:00 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-02 23:59:00 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:00:11 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 00:00:35 INFO  UserController:319 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:00:35 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:00:40 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 00:00:40 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:00:45 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:00:45 INFO  UserController:319 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:00:47 INFO  UserController:319 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:00:47 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:00:50 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 00:00:51 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:02:56 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:03:00 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:04:51 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 00:07:22 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 00:07:22 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:20:42 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 00:20:42 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-03 00:20:44 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 00:20:44 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 00:20:49 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 00:20:58 INFO  UserController:117 - admin1 has logged into Tangau!!!!
+2021-08-03 00:20:58 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-03 00:21:00 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:21:00 INFO  UserController:319 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:21:05 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 00:21:05 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:24:42 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:24:42 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 00:24:46 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 00:24:55 INFO  UserController:117 - admin1 has logged into Tangau!!!!
+2021-08-03 00:24:55 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-03 00:24:57 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:24:57 INFO  UserController:319 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:25:02 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 00:25:02 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 00:25:53 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 00:25:58 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 00:25:58 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-03 00:26:00 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 00:26:00 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 00:26:05 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 00:26:06 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 00:40:23 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 00:41:00 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 00:43:49 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 00:45:52 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:01:01 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 01:01:01 INFO  PostController:102 - All posts have beem sent over to the front-end!!
+2021-08-03 01:01:03 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:01:03 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:07:58 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:07:58 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 01:11:04 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:11:04 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:11:05 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:11:09 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:12:30 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:12:31 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:12:31 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:12:35 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:15:15 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:15:16 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:15:17 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:15:20 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:18:01 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:18:02 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:18:02 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:18:05 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:19:41 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:19:41 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:19:42 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:19:45 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:20:15 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:20:16 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:20:16 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:20:20 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:20:49 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:20:49 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:20:50 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:20:53 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:21:50 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:21:50 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:21:51 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:21:54 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:23:01 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:23:02 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:23:02 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:23:05 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:24:00 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:24:00 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:24:01 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:24:04 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:24:32 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:24:32 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:24:33 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:24:36 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:25:32 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:25:32 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:25:33 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:25:36 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:26:18 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:26:18 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:26:19 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:26:22 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:26:50 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:26:51 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:26:51 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:26:54 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:29:49 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:29:49 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:29:50 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:29:53 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:33:40 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:33:40 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:33:41 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:33:44 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:34:14 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:34:14 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:34:15 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:34:18 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:35:40 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:35:40 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:35:41 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:35:44 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:36:00 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:36:01 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:36:01 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:36:04 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:36:34 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:36:34 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:36:35 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:36:39 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:37:07 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:37:07 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:37:08 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:37:11 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:38:06 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:38:06 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:38:07 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:38:10 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:40:51 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:40:52 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:40:53 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:40:56 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:41:39 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:41:39 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:41:40 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:41:43 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:44:24 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 01:45:07 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 01:45:07 INFO  PostController:122 - All posts have beem sent over to the front-end!!
+2021-08-03 01:45:09 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:45:09 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:46:31 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 01:46:31 INFO  PostController:122 - All posts have beem sent over to the front-end!!
+2021-08-03 01:46:33 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:46:33 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:52:50 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:52:50 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:52:51 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:52:54 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:52:58 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 01:52:58 INFO  PostController:122 - All posts have beem sent over to the front-end!!
+2021-08-03 01:53:01 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:53:01 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:53:17 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 01:53:22 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:53:23 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:53:24 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:53:27 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:53:30 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 01:53:30 INFO  PostController:122 - All posts have beem sent over to the front-end!!
+2021-08-03 01:53:32 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:53:32 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:54:22 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:54:22 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:54:23 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:54:26 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:54:41 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:54:41 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:54:42 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:54:45 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:55:54 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:55:54 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:55:55 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:55:58 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:57:07 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:57:07 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:57:08 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:57:11 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:57:27 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:57:27 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:57:28 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:57:31 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:57:59 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:58:00 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:58:01 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:58:04 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:58:31 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:58:32 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:58:32 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:58:35 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:59:04 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:59:04 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:59:05 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:59:08 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:59:24 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 01:59:25 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 01:59:25 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 01:59:29 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 01:59:32 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 01:59:32 INFO  PostController:122 - All posts have beem sent over to the front-end!!
+2021-08-03 01:59:35 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 01:59:35 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:05:20 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:05:20 INFO  PostController:122 - All posts have beem sent over to the front-end!!
+2021-08-03 02:05:23 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:05:23 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:07:54 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:07:54 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:07:55 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:07:59 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:09:34 INFO  UserController:308 - null's profile picture key was successfully sent!!!
+2021-08-03 02:09:34 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 02:14:06 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:14:06 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:14:07 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:14:10 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:14:40 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:14:40 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:14:41 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:14:44 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:15:01 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:15:01 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:15:02 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:15:05 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:16:01 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:16:01 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:16:02 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:16:05 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:17:19 INFO  UserController:308 - null's profile picture key was successfully sent!!!
+2021-08-03 02:17:19 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:17:30 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 02:17:41 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 23505
+2021-08-03 02:17:41 ERROR SqlExceptionHelper:142 - ERROR: duplicate key value violates unique constraint "uk_1rskgqwm10br1ca48eux8sk8q"
+  Detail: Key (sn_post_text_content)=() already exists.
+2021-08-03 02:18:29 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:18:29 INFO  PostController:123 - All posts have beem sent over to the front-end!!
+2021-08-03 02:18:32 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:18:32 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:18:50 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 02:21:27 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:21:27 INFO  PostController:123 - All posts have beem sent over to the front-end!!
+2021-08-03 02:21:33 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:21:33 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:21:34 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:21:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:21:39 INFO  UserController:308 - null's profile picture key was successfully sent!!!
+2021-08-03 02:21:40 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:22:33 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:22:33 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:22:34 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:22:37 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:22:43 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:22:43 INFO  PostController:123 - All posts have beem sent over to the front-end!!
+2021-08-03 02:22:46 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:22:46 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:23:19 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:23:20 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:23:20 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:23:23 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:24:58 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:24:58 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:24:59 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:25:02 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:25:44 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:25:45 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:25:45 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:25:48 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:26:31 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:26:31 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:26:32 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:26:35 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:26:50 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:26:50 INFO  PostController:124 - All posts have beem sent over to the front-end!!
+2021-08-03 02:26:53 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:26:53 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:29:06 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:29:07 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:29:08 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:29:11 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:29:24 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:29:24 INFO  PostController:124 - All posts have beem sent over to the front-end!!
+2021-08-03 02:29:27 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:29:27 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:33:19 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:33:20 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:33:20 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:33:23 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:33:38 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:33:39 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:33:40 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:33:43 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:33:50 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 02:33:59 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:33:59 INFO  PostController:124 - All posts have beem sent over to the front-end!!
+2021-08-03 02:34:02 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:34:02 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:34:41 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:34:42 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:34:43 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:34:46 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:35:00 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:35:01 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:35:02 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:35:05 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:35:06 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 02:35:12 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:35:12 INFO  PostController:124 - All posts have beem sent over to the front-end!!
+2021-08-03 02:35:15 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:35:15 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:35:48 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:35:48 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:35:49 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:35:52 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:37:13 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:37:13 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:37:14 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:37:17 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:37:50 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 02:38:02 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:38:02 INFO  PostController:124 - All posts have beem sent over to the front-end!!
+2021-08-03 02:38:05 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:38:05 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:39:44 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 02:40:30 INFO  UserController:83 - admin3 has created an account with Tangau!!!!
+2021-08-03 02:40:30 INFO  PostController:124 - All posts have beem sent over to the front-end!!
+2021-08-03 02:40:33 INFO  UserController:308 - admin3's profile picture key was successfully sent!!!
+2021-08-03 02:40:33 INFO  UserController:319 - admin3's profile picture key was successfully sent!!!
+2021-08-03 02:41:19 INFO  PostController:70 - admin3 has created a post!!!
+2021-08-03 02:41:24 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 02:41:34 INFO  UserController:117 - admin3 has logged into Tangau!!!!
+2021-08-03 02:41:34 INFO  PostController:124 - All posts have beem sent over to the front-end!!
+2021-08-03 02:41:37 INFO  UserController:308 - admin3's profile picture key was successfully sent!!!
+2021-08-03 02:41:37 INFO  UserController:319 - admin3's profile picture key was successfully sent!!!
+2021-08-03 02:41:48 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 02:41:48 INFO  UserController:308 - admin3's profile picture key was successfully sent!!!
+2021-08-03 02:44:42 INFO  UserController:319 - admin3's profile picture key was successfully sent!!!
+2021-08-03 02:44:42 INFO  UserController:308 - admin3's profile picture key was successfully sent!!!
+2021-08-03 02:46:33 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 02:46:39 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:46:39 INFO  PostController:124 - All posts have beem sent over to the front-end!!
+2021-08-03 02:46:42 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:46:42 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:46:52 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:46:52 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:47:02 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:47:02 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:50:23 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 02:50:37 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 02:50:46 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 02:50:52 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:50:52 INFO  PostController:124 - All posts have beem sent over to the front-end!!
+2021-08-03 02:50:55 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:50:55 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:51:45 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:51:45 INFO  PostController:124 - All posts have beem sent over to the front-end!!
+2021-08-03 02:51:47 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:51:47 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:52:11 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 02:52:42 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 02:53:16 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 23505
+2021-08-03 02:53:16 ERROR SqlExceptionHelper:142 - ERROR: duplicate key value violates unique constraint "uk_1rskgqwm10br1ca48eux8sk8q"
+  Detail: Key (sn_post_text_content)=(testing post again2) already exists.
+2021-08-03 02:53:21 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 02:53:43 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 02:53:50 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 02:53:50 INFO  PostController:124 - All posts have beem sent over to the front-end!!
+2021-08-03 02:53:52 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:53:52 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 02:54:04 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 02:54:06 INFO  PostController:111 - Posting photo was successful!!!
+2021-08-03 02:54:17 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 02:58:30 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:58:30 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:58:31 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:58:34 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 02:59:04 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 02:59:04 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 02:59:05 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 02:59:08 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:00:03 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:00:04 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:00:05 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:00:08 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:00:20 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:00:20 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:00:22 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:00:25 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:00:33 INFO  UserController:122 - admin  failed to login!!!
+2021-08-03 03:00:49 INFO  UserController:122 - admin  failed to login!!!
+2021-08-03 03:02:48 INFO  UserController:122 - admin  failed to login!!!
+2021-08-03 03:02:57 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:02:58 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:02:59 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:03:02 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:03:09 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:03:09 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:03:11 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:03:14 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:03:19 INFO  UserController:122 - admin  failed to login!!!
+2021-08-03 03:05:05 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:05:06 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:05:06 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:05:10 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:05:38 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:05:39 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:05:40 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:05:43 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:06:00 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:06:00 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:06:01 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:06:05 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:06:08 INFO  UserController:122 - admin  failed to login!!!
+2021-08-03 03:06:47 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:06:48 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:06:48 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:06:51 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:06:59 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:06:59 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:07:00 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:07:04 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:07:16 INFO  UserController:122 - admin  failed to login!!!
+2021-08-03 03:07:43 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 03:07:43 INFO  PostController:129 - All posts have beem sent over to the front-end!!
+2021-08-03 03:07:46 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 03:07:46 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 03:08:24 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 03:09:39 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 03:09:47 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 23505
+2021-08-03 03:09:47 ERROR SqlExceptionHelper:142 - ERROR: duplicate key value violates unique constraint "uk_1rskgqwm10br1ca48eux8sk8q"
+  Detail: Key (sn_post_text_content)=(Post with photos) already exists.
+2021-08-03 03:09:47 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 23505
+2021-08-03 03:09:47 ERROR SqlExceptionHelper:142 - ERROR: duplicate key value violates unique constraint "uk_1rskgqwm10br1ca48eux8sk8q"
+  Detail: Key (sn_post_text_content)=(Post with photos) already exists.
+2021-08-03 03:09:47 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 23505
+2021-08-03 03:09:47 ERROR SqlExceptionHelper:142 - ERROR: duplicate key value violates unique constraint "uk_1rskgqwm10br1ca48eux8sk8q"
+  Detail: Key (sn_post_text_content)=(Post with photos) already exists.
+2021-08-03 03:09:48 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 23505
+2021-08-03 03:09:48 ERROR SqlExceptionHelper:142 - ERROR: duplicate key value violates unique constraint "uk_1rskgqwm10br1ca48eux8sk8q"
+  Detail: Key (sn_post_text_content)=(Post with photos) already exists.
+2021-08-03 03:09:49 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 23505
+2021-08-03 03:09:49 ERROR SqlExceptionHelper:142 - ERROR: duplicate key value violates unique constraint "uk_1rskgqwm10br1ca48eux8sk8q"
+  Detail: Key (sn_post_text_content)=(Post with photos) already exists.
+2021-08-03 03:09:51 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 23505
+2021-08-03 03:09:51 ERROR SqlExceptionHelper:142 - ERROR: duplicate key value violates unique constraint "uk_1rskgqwm10br1ca48eux8sk8q"
+  Detail: Key (sn_post_text_content)=(Post with photos) already exists.
+2021-08-03 03:09:52 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 23505
+2021-08-03 03:09:52 ERROR SqlExceptionHelper:142 - ERROR: duplicate key value violates unique constraint "uk_1rskgqwm10br1ca48eux8sk8q"
+  Detail: Key (sn_post_text_content)=(Post with photos) already exists.
+2021-08-03 03:10:49 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 03:10:53 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 03:10:53 INFO  PostController:129 - All posts have beem sent over to the front-end!!
+2021-08-03 03:10:54 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 42P01
+2021-08-03 03:10:54 ERROR SqlExceptionHelper:142 - ERROR: relation "sn_post" does not exist
+  Position: 172
+2021-08-03 03:11:14 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 03:11:14 INFO  PostController:129 - All posts have beem sent over to the front-end!!
+2021-08-03 03:11:14 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 42P01
+2021-08-03 03:11:14 ERROR SqlExceptionHelper:142 - ERROR: relation "sn_post" does not exist
+  Position: 172
+2021-08-03 03:12:23 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:12:23 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:12:25 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:12:27 WARN  ExceptionHandlerLoggedImpl:27 - GenerationTarget encountered exception accepting command : Error executing DDL "alter table sn_post drop constraint FKg09nnilv5a1it3mkb2epqc39u" via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table sn_post drop constraint FKg09nnilv5a1it3mkb2epqc39u" via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:375)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:359)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:331)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:230)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:154)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:126)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:112)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:153)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:81)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:327)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:728)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:744)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:616)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:401)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:292)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4768)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5230)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:437)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:934)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+Caused by: org.postgresql.util.PSQLException: ERROR: relation "sn_post" does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:481)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:401)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:322)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:308)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:284)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:279)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54)
+	... 101 more
+2021-08-03 03:12:27 WARN  ExceptionHandlerLoggedImpl:27 - GenerationTarget encountered exception accepting command : Error executing DDL "alter table sn_post_likes drop constraint FKhxq3edkrpw1o3r7tv8kd3lsui" via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table sn_post_likes drop constraint FKhxq3edkrpw1o3r7tv8kd3lsui" via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:375)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:359)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:331)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:230)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:154)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:126)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:112)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:153)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:81)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:327)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:728)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:744)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:616)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:401)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:292)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4768)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5230)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:437)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:934)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+Caused by: org.postgresql.util.PSQLException: ERROR: relation "sn_post_likes" does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:481)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:401)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:322)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:308)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:284)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:279)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54)
+	... 101 more
+2021-08-03 03:12:27 WARN  ExceptionHandlerLoggedImpl:27 - GenerationTarget encountered exception accepting command : Error executing DDL "alter table sn_post_likes drop constraint FKjrdl0noto9n731s9qa7okfwqt" via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table sn_post_likes drop constraint FKjrdl0noto9n731s9qa7okfwqt" via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:375)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:359)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:331)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:230)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:154)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:126)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:112)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:153)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:81)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:327)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:728)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:744)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:616)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:401)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:292)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4768)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5230)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:437)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:934)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+Caused by: org.postgresql.util.PSQLException: ERROR: relation "sn_post_likes" does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:481)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:401)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:322)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:308)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:284)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:279)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54)
+	... 101 more
+2021-08-03 03:12:27 WARN  ExceptionHandlerLoggedImpl:27 - GenerationTarget encountered exception accepting command : Error executing DDL "alter table sn_post_photo drop constraint FKa3p7la21bxl3fanh76reeu6f9" via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table sn_post_photo drop constraint FKa3p7la21bxl3fanh76reeu6f9" via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:375)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:359)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:331)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:230)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:154)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:126)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:112)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:153)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:81)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:327)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:728)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:744)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:616)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:401)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:292)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4768)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5230)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:437)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:934)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+Caused by: org.postgresql.util.PSQLException: ERROR: relation "sn_post_photo" does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:481)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:401)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:322)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:308)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:284)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:279)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54)
+	... 101 more
+2021-08-03 03:12:27 WARN  ExceptionHandlerLoggedImpl:27 - GenerationTarget encountered exception accepting command : Error executing DDL "alter table sn_user drop constraint FK262gx6gdmollx4x8mfpm9nm5g" via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table sn_user drop constraint FK262gx6gdmollx4x8mfpm9nm5g" via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:375)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:359)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:331)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:230)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:154)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:126)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:112)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:153)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:81)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:327)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:728)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:744)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:616)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:401)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:292)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4768)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5230)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:437)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:934)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+Caused by: org.postgresql.util.PSQLException: ERROR: relation "sn_user" does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:481)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:401)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:322)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:308)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:284)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:279)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54)
+	... 101 more
+2021-08-03 03:12:27 WARN  ExceptionHandlerLoggedImpl:27 - GenerationTarget encountered exception accepting command : Error executing DDL "alter table sn_user drop constraint FKswtijsmckjpoik9euksrulw9b" via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table sn_user drop constraint FKswtijsmckjpoik9euksrulw9b" via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:375)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:359)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:331)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:230)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:154)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:126)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:112)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:153)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:81)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:327)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:728)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:744)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:616)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:401)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:292)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4768)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5230)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:437)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:934)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+Caused by: org.postgresql.util.PSQLException: ERROR: relation "sn_user" does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:481)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:401)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:322)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:308)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:284)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:279)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54)
+	... 101 more
+2021-08-03 03:12:27 WARN  ExceptionHandlerLoggedImpl:27 - GenerationTarget encountered exception accepting command : Error executing DDL "alter table User_salt drop constraint FKj89etnl3r5uxor0mhrf4nv3wq" via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL "alter table User_salt drop constraint FKj89etnl3r5uxor0mhrf4nv3wq" via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:375)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:359)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applyConstraintDropping(SchemaDropperImpl.java:331)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:230)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:154)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:126)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:112)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:153)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:81)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:327)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:471)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:728)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:744)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.buildSessionFactory(LocalSessionFactoryBean.java:616)
+	at org.springframework.orm.hibernate5.LocalSessionFactoryBean.afterPropertiesSet(LocalSessionFactoryBean.java:600)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:887)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:791)
+	at org.springframework.beans.factory.support.ConstructorResolver.autowireConstructor(ConstructorResolver.java:229)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstructor(AbstractAutowireCapableBeanFactory.java:1354)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1204)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:564)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:401)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:292)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:103)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4768)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5230)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardHost.startInternal(StandardHost.java:835)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1398)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1388)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at org.apache.tomcat.util.threads.InlineExecutorService.execute(InlineExecutorService.java:75)
+	at java.base/java.util.concurrent.AbstractExecutorService.submit(AbstractExecutorService.java:140)
+	at org.apache.catalina.core.ContainerBase.startInternal(ContainerBase.java:921)
+	at org.apache.catalina.core.StandardEngine.startInternal(StandardEngine.java:263)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardService.startInternal(StandardService.java:437)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.core.StandardServer.startInternal(StandardServer.java:934)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:183)
+	at org.apache.catalina.startup.Catalina.start(Catalina.java:772)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+	at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:476)
+Caused by: org.postgresql.util.PSQLException: ERROR: relation "user_salt" does not exist
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:481)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:401)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:322)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:308)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:284)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:279)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54)
+	... 101 more
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 00000
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:231 - table "sn_gender" does not exist, skipping
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 00000
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:231 - table "sn_post" does not exist, skipping
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 00000
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:231 - table "sn_post_likes" does not exist, skipping
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 00000
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:231 - table "sn_post_photo" does not exist, skipping
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 00000
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:231 - table "sn_user" does not exist, skipping
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 00000
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:231 - table "sn_user_role" does not exist, skipping
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 00000
+2021-08-03 03:12:27 WARN  SqlExceptionHelper:231 - table "user_salt" does not exist, skipping
+2021-08-03 03:12:28 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:12:54 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:12:55 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:12:56 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:12:59 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:13:34 WARN  UnresolvedEntityInsertActions:144 - HHH000437: Attempting to save one or more entities that have a non-nullable association with an unsaved transient entity. The unsaved transient entity must be saved in an operation prior to saving these dependent entities.
+	Unsaved transient entity: ([example.model.user.UserRole#4])
+	Dependent entities: ([[example.model.user.User#<null>]])
+	Non-nullable association(s): ([example.model.user.User.userRole])
+2021-08-03 03:14:08 INFO  UserController:83 - admin has created an account with Tangau!!!!
+2021-08-03 03:14:08 INFO  PostController:129 - All posts have beem sent over to the front-end!!
+2021-08-03 03:14:10 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 03:14:10 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 03:14:41 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 03:14:59 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 03:18:01 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 03:19:26 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:19:26 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:19:27 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:19:31 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:19:49 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 03:20:42 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:20:42 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:20:43 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:20:47 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:21:05 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:21:05 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:21:06 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:21:09 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:21:25 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:21:26 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:21:27 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:21:30 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:21:33 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 03:21:35 INFO  PostController:117 - Posting photo was successful!!!
+2021-08-03 03:24:24 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 03:25:03 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 03:25:03 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 03:25:04 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 03:25:07 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 03:25:28 INFO  PostController:70 - admin has created a post!!!
+2021-08-03 03:25:30 INFO  PostController:117 - Posting photo was successful!!!
+2021-08-03 03:25:43 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 03:25:48 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 03:25:48 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 03:25:50 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 03:25:50 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 03:26:50 INFO  UserController:188 - admin has made changes to their Tangau profile!!!!
+2021-08-03 03:26:53 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 03:26:58 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 03:26:58 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 03:27:00 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 03:27:00 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 03:27:18 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 03:27:54 INFO  UserController:83 - admin1 has created an account with Tangau!!!!
+2021-08-03 03:27:54 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 03:27:56 INFO  UserController:319 - admin1's profile picture key was successfully sent!!!
+2021-08-03 03:27:56 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 03:28:02 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 03:28:02 INFO  UserController:319 - admin1's profile picture key was successfully sent!!!
+2021-08-03 03:28:09 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 03:28:09 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 03:28:34 INFO  UserController:308 - admin1's profile picture key was successfully sent!!!
+2021-08-03 03:28:34 INFO  UserController:319 - admin1's profile picture key was successfully sent!!!
+2021-08-03 03:28:36 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 03:51:35 INFO  UserController:237 - A token has been sent to mprecilio@gmail.com
+2021-08-03 03:52:05 INFO  UserController:264 - Password change was unsuccessful because user has the same password currently!!!
+2021-08-03 04:00:19 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 04:00:19 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 04:00:21 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 04:00:21 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 04:01:03 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 04:01:03 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 04:01:13 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 04:01:13 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 04:02:48 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 08:45:14 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 08:45:15 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 08:45:16 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 08:45:21 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 08:58:55 INFO  UserController:122 - admin failed to login!!!
+2021-08-03 08:58:58 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 08:58:58 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 08:59:00 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 08:59:00 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 09:00:40 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-03 09:00:40 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-03 09:00:42 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-03 09:00:46 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-03 09:31:12 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 09:31:19 INFO  UserController:122 - adfaf failed to login!!!
+2021-08-03 10:40:42 INFO  UserController:83 - admin4 has created an account with Tangau!!!!
+2021-08-03 10:40:42 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 10:40:44 INFO  UserController:319 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:40:44 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:41:01 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 10:41:08 INFO  UserController:117 - admin4 has logged into Tangau!!!!
+2021-08-03 10:41:08 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 10:41:11 INFO  UserController:319 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:41:11 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:41:47 INFO  UserController:188 - admin4 has made changes to their Tangau profile!!!!
+2021-08-03 10:41:51 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 10:41:58 INFO  UserController:117 - admin4 has logged into Tangau!!!!
+2021-08-03 10:41:58 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 10:42:00 INFO  UserController:319 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:42:00 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:42:15 INFO  PostController:70 - admin4 has created a post!!!
+2021-08-03 10:42:42 INFO  UserController:117 - admin4 has logged into Tangau!!!!
+2021-08-03 10:42:42 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 10:42:44 INFO  UserController:319 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:42:44 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:43:01 INFO  PostController:70 - admin4 has created a post!!!
+2021-08-03 10:43:03 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 10:43:03 INFO  PostController:117 - Posting photo was successful!!!
+2021-08-03 10:43:08 INFO  UserController:117 - admin4 has logged into Tangau!!!!
+2021-08-03 10:43:08 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 10:43:10 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:43:10 INFO  UserController:319 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:43:18 INFO  UserController:319 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:43:18 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:43:31 INFO  UserController:319 - test's profile picture key was successfully sent!!!
+2021-08-03 10:43:31 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:44:00 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:44:00 INFO  UserController:319 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:44:13 INFO  UserController:340 - admin4 has successfully changed their profile picture!!!
+2021-08-03 10:44:13 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:44:14 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:44:28 INFO  UserController:188 - admin4 has made changes to their Tangau profile!!!!
+2021-08-03 10:44:30 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 10:44:36 INFO  UserController:117 - admin4 has logged into Tangau!!!!
+2021-08-03 10:44:36 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 10:44:37 INFO  UserController:117 - admin4 has logged into Tangau!!!!
+2021-08-03 10:44:38 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 10:44:39 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:44:39 INFO  UserController:319 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:45:25 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 10:45:40 INFO  UserController:237 - A token has been sent to mprecilio@gmail.com
+2021-08-03 10:46:06 INFO  UserController:294 - Password was successfully changed!!!
+2021-08-03 10:46:15 INFO  UserController:117 - admin has logged into Tangau!!!!
+2021-08-03 10:46:15 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 10:46:18 INFO  UserController:308 - admin's profile picture key was successfully sent!!!
+2021-08-03 10:46:18 INFO  UserController:319 - admin's profile picture key was successfully sent!!!
+2021-08-03 10:46:25 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-03 10:51:38 INFO  UserController:117 - admin4 has logged into Tangau!!!!
+2021-08-03 10:51:38 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-03 10:51:41 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:51:41 INFO  UserController:319 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:51:49 INFO  UserController:319 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:51:49 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-03 10:52:38 INFO  UserController:363 - A user has successfully logged out of the website!!!
+2021-08-04 09:19:43 INFO  UserController:122 - admin failed to login!!!
+2021-08-04 09:20:03 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.5.3.Final
+2021-08-04 09:20:03 INFO  Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-08-04 09:20:05 INFO  Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL82Dialect
+2021-08-04 09:20:09 INFO  JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-08-04 09:20:12 INFO  UserController:117 - admin4 has logged into Tangau!!!!
+2021-08-04 09:20:12 INFO  PostController:130 - All posts have beem sent over to the front-end!!
+2021-08-04 09:20:14 INFO  UserController:308 - admin4's profile picture key was successfully sent!!!
+2021-08-04 09:20:14 INFO  UserController:319 - admin4's profile picture key was successfully sent!!!

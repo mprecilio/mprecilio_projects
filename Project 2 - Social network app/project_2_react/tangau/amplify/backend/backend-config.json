@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "tangau4b17ed5f": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "tangau": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}

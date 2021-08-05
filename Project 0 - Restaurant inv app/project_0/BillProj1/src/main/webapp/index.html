@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Front Controller Example</title>
+
+<link rel="stylesheet" type="text/css" href="/SimilarToProject01/resources/css/mystyles.css"/>
+
+ <style>
+body {
+  background: url('money_page.jpg');
+}
+</style>
+
+
+
+</head>
+<body>
+
+	<div class="login-container">
+		<h4>Expense Reimbursement System</h4>
+		
+		<!-- FORWARDING SERVLET EXAMPLE -->
+		<!-- <form method="post" action="http://localhost:9002/HelloFrontController/forwarding/login"> -->
+		<form method="post" action="/SimilarToProject01/forwarding/login">
+			<p>Please log in with your user name and password.</p>
+			
+			<input type="text" id = "id_button" placeholder="enter username" name="username"/>
+			<br>
+			<input type="password" id = "pass_button" placeholder="enter password" name="password"/>  <!-- "text" changed to "password" on 07JUL21 -->
+			<br>
+			<input type="submit" value="Login"/>
+		</form>
+
+		
+	</div>
+	<script type="text/JavaScript" src="/SimilarToProject01/resources/js/home.js"></script>
+	
+</body>
+</html>

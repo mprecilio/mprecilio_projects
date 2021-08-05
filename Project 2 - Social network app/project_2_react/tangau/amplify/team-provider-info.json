@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tangau-dev-172407-authRole",
+      "UnauthRoleArn": "arn:aws:iam::317198976525:role/amplify-tangau-dev-172407-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::317198976525:role/amplify-tangau-dev-172407-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-tangau-dev-172407-deployment",
+      "UnauthRoleName": "amplify-tangau-dev-172407-unauthRole",
+      "StackName": "amplify-tangau-dev-172407",
+      "StackId": "arn:aws:cloudformation:us-east-2:317198976525:stack/amplify-tangau-dev-172407/5b85eea0-f3e0-11eb-b539-02bc742e1cea",
+      "AmplifyAppId": "d3q5p92rs9e6da"
+    },
+    "categories": {
+      "auth": {
+        "tangau4b17ed5f": {}
+      }
+    }
+  }
+}

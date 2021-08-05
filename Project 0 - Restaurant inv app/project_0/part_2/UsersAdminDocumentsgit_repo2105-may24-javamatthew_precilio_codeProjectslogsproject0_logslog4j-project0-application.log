@@ -1,0 +1,97 @@
+2021-06-22 14:58:41 INFO  PersistJDBC:88 - New restaurant account created with the username: thisisatest
+2021-06-22 19:25:18 INFO  PersistJDBC:88 - New restaurant account created with the username: josh
+2021-06-22 19:25:18 INFO  PersistJDBC:80 - Restaurant account has signed in: josh
+2021-06-22 19:25:27 INFO  PersistJDBC:157 - New fridge account created by: josh
+2021-06-22 19:25:29 INFO  PersistJDBC:157 - New fridge account created by: josh
+2021-06-22 19:25:30 INFO  PersistJDBC:157 - New fridge account created by: josh
+2021-06-22 19:25:58 INFO  PersistJDBC:179 - paaaaasta was added to fridge: 5
+2021-06-22 19:26:37 INFO  PersistJDBC:370 - paaaaasta was transfered from fridge: 5 to fridge: 7
+2021-06-22 19:26:37 INFO  PersistJDBC:179 - paaaaasta was added to fridge: 7
+2021-06-22 19:26:38 INFO  PersistJDBC:327 - paaaaasta was deleted from fridge: 5
+2021-06-22 19:27:48 INFO  PersistJDBC:87 - Restaurant account has signed out: josh
+2021-06-22 19:27:48 FATAL PersistJDBC:117 - Application closed.
+2021-06-22 19:28:00 INFO  PersistJDBC:43 - Restaurant account has signed in: josh
+2021-06-22 19:52:21 INFO  PersistJDBC:370 - paaaaasta was transfered from fridge: 7 to fridge: 5
+2021-06-22 19:52:22 INFO  PersistJDBC:179 - paaaaasta was added to fridge: 5
+2021-06-22 19:52:22 INFO  PersistJDBC:327 - paaaaasta was deleted from fridge: 7
+2021-06-22 19:53:04 INFO  PersistJDBC:50 - Restaurant account has signed out: josh
+2021-06-22 19:53:04 FATAL PersistJDBC:117 - Application closed.
+2021-06-22 19:55:09 INFO  PersistJDBC:43 - Restaurant account has signed in: josh
+2021-06-22 19:55:25 INFO  PersistJDBC:327 - paaaaasta was deleted from fridge: 5
+2021-06-22 19:55:59 INFO  PersistJDBC:179 - apple was added to fridge: 6
+2021-06-22 19:56:10 INFO  PersistJDBC:370 - apple was transfered from fridge: 6 to fridge: 7
+2021-06-22 19:56:11 INFO  PersistJDBC:179 - apple was added to fridge: 7
+2021-06-22 19:56:11 INFO  PersistJDBC:327 - apple was deleted from fridge: 6
+2021-06-22 19:59:01 INFO  PersistJDBC:43 - Restaurant account has signed in: aa
+2021-06-22 19:59:08 INFO  PersistJDBC:157 - New fridge account created by: aa
+2021-06-22 19:59:35 INFO  PersistJDBC:179 - Bananas was added to fridge: 8
+2021-06-22 19:59:35 INFO  PersistJDBC:327 - Bananas was deleted from fridge: 4
+2021-06-22 19:59:35 INFO  PersistJDBC:370 - Bananas was transfered from fridge: 4 to fridge: 8
+2021-06-22 19:59:36 INFO  PersistJDBC:179 - Bananas was added to fridge: 8
+2021-06-22 19:59:39 INFO  PersistJDBC:327 - Bananas was deleted from fridge: 4
+2021-06-22 20:15:50 INFO  PersistJDBC:43 - Restaurant account has signed in: josh
+2021-06-22 20:16:15 INFO  PersistJDBC:179 - apple was added to fridge: 7
+2021-06-22 20:17:48 INFO  PersistJDBC:327 - apple was deleted from fridge: 7
+2021-06-22 20:30:58 INFO  PersistJDBC:43 - Restaurant account has signed in: josh
+2021-06-22 20:31:10 INFO  PersistJDBC:179 - apple was added to fridge: 5
+2021-06-22 20:31:23 INFO  PersistJDBC:179 - apple was added to fridge: 5
+2021-06-22 20:31:44 INFO  PersistJDBC:179 - apple was added to fridge: 6
+2021-06-22 20:31:44 INFO  PersistJDBC:327 - apple was deleted from fridge: 5
+2021-06-22 20:33:18 INFO  PersistJDBC:43 - Restaurant account has signed in: josh
+2021-06-22 20:33:47 INFO  PersistJDBC:179 - apple was added to fridge: 6
+2021-06-22 20:34:01 INFO  PersistJDBC:179 - apple was added to fridge: 5
+2021-06-22 20:34:01 INFO  PersistJDBC:327 - apple was deleted from fridge: 6
+2021-06-22 20:37:55 INFO  PersistJDBC:43 - Restaurant account has signed in: josh
+2021-06-22 20:38:20 INFO  PersistJDBC:179 - apple was added to fridge: 5
+2021-06-22 20:38:58 INFO  PersistJDBC:179 - apple was added to fridge: 6
+2021-06-22 20:38:58 INFO  PersistJDBC:327 - apple was deleted from fridge: 5
+2021-06-22 20:38:59 INFO  PersistJDBC:179 - apple was added to fridge: 5
+2021-06-22 20:40:16 INFO  PersistJDBC:43 - Restaurant account has signed in: josh
+2021-06-22 20:40:24 INFO  PersistJDBC:327 - apple was deleted from fridge: 6
+2021-06-22 20:40:35 INFO  PersistJDBC:179 - apple was added to fridge: 5
+2021-06-22 20:40:51 INFO  PersistJDBC:179 - apple was added to fridge: 7
+2021-06-22 20:40:51 INFO  PersistJDBC:327 - apple was deleted from fridge: 5
+2021-06-22 20:40:51 INFO  PersistJDBC:179 - apple was added to fridge: 5
+2021-06-22 20:45:09 INFO  PersistJDBC:43 - Restaurant account has signed in: aa
+2021-06-22 20:45:21 INFO  PersistJDBC:327 - Bananas was deleted from fridge: 8
+2021-06-22 20:47:42 INFO  PersistJDBC:43 - Restaurant account has signed in: aa
+2021-06-22 20:47:59 INFO  PersistJDBC:179 - a was added to fridge: 4
+2021-06-22 20:48:05 INFO  PersistJDBC:179 - a was added to fridge: 4
+2021-06-22 20:48:27 INFO  PersistJDBC:327 - a was deleted from fridge: 4
+2021-06-22 20:48:27 INFO  PersistJDBC:179 - a was added to fridge: 4
+2021-06-22 20:52:21 INFO  PersistJDBC:179 - a was added to fridge: 4
+2021-06-22 20:52:32 ERROR PersistJDBC:129 - A SQL exception was thrown: 
+org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "my_cpk"
+  Detail: Key (health_inpsector_username, fridge_id)=(bb, 4) already exists.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2553)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2285)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:323)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:481)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:401)
+	at org.postgresql.jdbc.PgPreparedStatement.executeWithFlags(PgPreparedStatement.java:164)
+	at org.postgresql.jdbc.PgPreparedStatement.executeUpdate(PgPreparedStatement.java:130)
+	at part1.utilities.PersistJDBC.newHealthInspectorFridge(PersistJDBC.java:124)
+	at part1.menus.loginsignup.accountactions.RestaurantActions.givePermission(RestaurantActions.java:416)
+	at part1.menus.loginsignup.accountactions.RestaurantActions.restaurantActions(RestaurantActions.java:58)
+	at part1.menus.MainMenu.mainMenuDriver(MainMenu.java:44)
+	at part1.ApplicationDriver.main(ApplicationDriver.java:14)
+2021-06-22 20:52:59 INFO  PersistJDBC:56 - Health inspector account has signed in: bb
+2021-06-22 20:53:11 INFO  PersistJDBC:327 - a was deleted from fridge: 4
+2021-06-22 20:53:11 INFO  PersistJDBC:179 - a was added to fridge: 4
+2021-06-22 20:53:31 INFO  PersistJDBC:63 - Health inspector account has signed out: bb
+2021-06-22 20:53:31 FATAL PersistJDBC:117 - Application closed.
+2021-06-22 20:54:37 INFO  PersistJDBC:43 - Restaurant account has signed in: aa
+2021-06-22 20:55:06 INFO  PersistJDBC:179 - a was added to fridge: 8
+2021-06-22 20:55:06 INFO  PersistJDBC:327 - a was deleted from fridge: 4
+2021-06-22 20:55:06 INFO  PersistJDBC:346 - Deleted fridge: 4
+2021-06-22 20:55:19 INFO  PersistJDBC:50 - Restaurant account has signed out: aa
+2021-06-22 20:55:19 FATAL PersistJDBC:117 - Application closed.
+2021-06-22 20:55:34 INFO  PersistJDBC:43 - Restaurant account has signed in: aa
+2021-06-22 20:55:41 INFO  PersistJDBC:46 - Restaurant account has signed out: aa
+2021-06-22 20:55:47 INFO  PersistJDBC:56 - Health inspector account has signed in: bb
+2021-06-22 20:56:59 INFO  PersistJDBC:63 - Health inspector account has signed out: bb
+2021-06-22 20:56:59 FATAL PersistJDBC:117 - Application closed.
+2021-06-22 20:57:54 INFO  PersistJDBC:88 - New restaurant account created with the username: lknasl
+2021-06-22 20:57:54 INFO  PersistJDBC:80 - Restaurant account has signed in: lknasl
+2021-06-22 21:00:47 INFO  PersistJDBC:87 - Restaurant account has signed out: lknasl
+2021-06-22 21:00:47 FATAL PersistJDBC:117 - Application closed.
