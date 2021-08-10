@@ -1,0 +1,162 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.header {
+	height: 100vh;
+}
+
+#formDivDiv{
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#formDivDiv {
+	height: 170px;
+	width: 180px;
+	position: fixed;
+	right: 5%;
+	top: 30%;
+	border: 0px !important;
+	background-color: #f8f9fa;
+	border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+}
+
+#empFormDivDiv {
+	height: 245px;
+	width: 240px;
+	position: fixed;
+	right: 5%;
+	top: 30%;
+	border: 0px !important;
+	background-color: #f8f9fa;
+	border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+}
+
+#reimb_resolver_form{
+	padding:5px;
+}
+
+.video-background {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: -1;
+}
+
+@media ( min-aspect-ratio :16/9) {
+	.video-background {
+		width: 100%;
+		height: auto;
+	}
+}
+
+@media ( max-aspect-ratio :16/9) {
+	.video-background {
+		width: auto;
+		height: 100%;
+	}
+}
+
+.navbar-brand {
+	position: relative;
+	top: 0;
+}
+
+.logo {
+	height: 40px;
+}
+
+.form-heading {
+	color: #fff;
+	font-size: 23px;
+}
+
+.panel h2 {
+	color: #444444;
+	font-size: 18px;
+	margin: 0 0 8px 0;
+}
+
+.panel p {
+	color: #777777;
+	font-size: 14px;
+	margin-bottom: 30px;
+	line-height: 24px;
+}
+
+.login-form .form-control {
+	background: #f7f7f7 none repeat scroll 0 0;
+	border: 1px solid #d4d4d4;
+	border-radius: 7px;
+	font-size: 14px;
+	height: 50px;
+	line-height: 50px;
+}
+
+.main-div {
+	background: #ffffff none repeat scroll 0 0;
+	border-radius: 4px;
+	margin: 10px auto 30px;
+	padding: 50px 70px 70px 71px;
+}
+
+.login-form .form-group {
+	margin-bottom: 10px;
+}
+
+.login-form {
+	text-align: center;
+}
+
+.forgot a {
+	color: #777777;
+	font-size: 14px;
+	text-decoration: underline;
+}
+
+.login-form  .btn.btn-primary {
+	background: #084dbd none repeat scroll 0 0;
+	border-color: #084dbd;
+	color: #ffffff;
+	font-size: 14px;
+	width: 100%;
+	height: 50px;
+	line-height: 50px;
+	padding: 0;
+}
+
+.forgot {
+	text-align: left;
+	margin-bottom: 30px;
+}
+
+.botto-text {
+	color: #ffffff;
+	font-size: 14px;
+	margin: auto;
+}
+
+.login-form .btn.btn-primary.reset {
+	background: #ff9900 none repeat scroll 0 0;
+}
+
+.back {
+	text-align: left;
+	margin-top: 10px;
+}
+
+.back a {
+	color: #444444;
+	font-size: 13px;
+	text-decoration: none;
+}

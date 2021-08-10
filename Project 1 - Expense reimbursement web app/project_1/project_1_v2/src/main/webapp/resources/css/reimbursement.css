@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+#tableDiv {
+	border: 0px !important;
+	background-color: #f8f9fa;
+	border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+}
+#userForm {
+	border: 0px !important;
+	background-color: #f8f9fa;
+	border-radius: 5px 5px 5px 5px;
+	-webkit-border-radius: 5px 5px 5px 5px;
+	-moz-border-radius: 5px 5px 5px 5px;
+}
