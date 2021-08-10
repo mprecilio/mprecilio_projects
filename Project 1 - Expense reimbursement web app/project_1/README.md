@@ -39,7 +39,7 @@ git clone https://github.com/mprecilio/mprecilio_projects.git
 
 Open in IDE. Download dependencies. Run on server.
 
-- All the `code` is in this folder
+- All the `code` is in the Project 1 - Expense reimbursement web app repository
 - Images of what it should look like can be found in the screenshots repository
 
 ## Usage
